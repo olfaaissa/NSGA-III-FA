@@ -1,0 +1,22 @@
+HV: Friedman chi2=1.989, p=0.851, 8 instances
+algo
+A1_FC                3.0000
+NSGA3-PM             3.0000
+A5_FA2               3.5625
+A12_beta1            3.6250
+A8_adaptfoot         3.8125
+A13_beta1_nodecay    4.0000
+
+CD = 2.666
+
+IGDp: Friedman chi2=2.286, p=0.808, 8 instances
+algo
+NSGA3-PM             2.875
+A1_FC                3.125
+A12_beta1            3.375
+A5_FA2               3.750
+A8_adaptfoot         3.875
+A13_beta1_nodecay    4.000
+
+CD = 2.666
+

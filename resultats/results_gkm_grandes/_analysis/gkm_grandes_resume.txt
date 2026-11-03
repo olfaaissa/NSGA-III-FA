@@ -1,0 +1,20 @@
+=== 50x5 (30 runs)
+  NSGA-III-FA                  HV 0.604  IGD+ 0.0385  cpu 201.6s
+  GKM++                        HV 0.408  IGD+ 0.1849  cpu 64.8s   FA + (HV, p=5.6e-09, FA meilleur 30/30)  + (IGD+)
+  GKM++(completed)             HV 0.445  IGD+ 0.1457  cpu 75.3s   FA + (HV, p=5.6e-09, FA meilleur 30/30)  + (IGD+)
+  NSGA-III-PM(GKM settings)    HV 0.447  IGD+ 0.1447  cpu 75.4s   FA + (HV, p=5.6e-09, FA meilleur 30/30)  + (IGD+)
+  GKM++(completed) vs GKM++ : p=2.0e-06 ; vs init. aleatoire : p=0.52
+
+=== 100x10 (30 runs)
+  NSGA-III-FA                  HV 0.604  IGD+ 0.0344  cpu 174.0s
+  GKM++                        HV 0.394  IGD+ 0.1759  cpu 99.0s   FA + (HV, p=5.6e-09, FA meilleur 30/30)  + (IGD+)
+  GKM++(completed)             HV 0.441  IGD+ 0.1329  cpu 102.4s   FA + (HV, p=5.6e-09, FA meilleur 30/30)  + (IGD+)
+  NSGA-III-PM(GKM settings)    HV 0.443  IGD+ 0.1314  cpu 102.2s   FA + (HV, p=5.6e-09, FA meilleur 30/30)  + (IGD+)
+  GKM++(completed) vs GKM++ : p=1.9e-08 ; vs init. aleatoire : p=0.61
+
+=== 200x10 (30 runs)
+  NSGA-III-FA                  HV 0.599  IGD+ 0.0361  cpu 225.8s
+  GKM++                        HV 0.352  IGD+ 0.1890  cpu 166.6s   FA + (HV, p=5.6e-09, FA meilleur 30/30)  + (IGD+)
+  GKM++(completed)             HV 0.409  IGD+ 0.1392  cpu 168.6s   FA + (HV, p=5.6e-09, FA meilleur 30/30)  + (IGD+)
+  NSGA-III-PM(GKM settings)    HV 0.403  IGD+ 0.1427  cpu 168.1s   FA + (HV, p=5.6e-09, FA meilleur 30/30)  + (IGD+)
+  GKM++(completed) vs GKM++ : p=9.3e-09 ; vs init. aleatoire : p=0.13

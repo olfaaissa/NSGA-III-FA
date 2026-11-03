@@ -1,0 +1,28 @@
+HV: Friedman chi2=10.933, p=0.206, 2 instances
+algo
+A8_adaptfoot    1.5
+A1_FC           2.5
+MOEAD           4.5
+A5_FA2          5.0
+AGEMOEA2        5.0
+NSGA3-PM        5.0
+NSGA3-PMm       5.0
+RVEA            7.5
+MOPSO           9.0
+
+CD = 8.495
+
+IGDp: Friedman chi2=11.333, p=0.184, 2 instances
+algo
+A1_FC           2.0
+A8_adaptfoot    2.0
+NSGA3-PM        4.0
+MOEAD           4.5
+NSGA3-PMm       5.0
+A5_FA2          5.0
+AGEMOEA2        6.0
+RVEA            7.5
+MOPSO           9.0
+
+CD = 8.495
+

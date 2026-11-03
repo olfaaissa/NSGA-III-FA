@@ -1,0 +1,5 @@
+instance,algo,activation_rate,share_dom,share_niche,share_elite,share_inactive,share_exploit_gens
+dtlz3_M5,A1_FC,0.7,0.002,0.107,0.591,0.0,0.0
+dtlz3_M5,A8_adaptfoot,0.84,0.003,0.106,0.731,0.0,0.466
+dtlz7_M10,A1_FC,0.7,0.0,0.16,0.541,0.0,0.0
+dtlz7_M10,A8_adaptfoot,0.808,0.0,0.212,0.596,0.0,0.361

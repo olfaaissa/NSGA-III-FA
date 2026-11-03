@@ -1,0 +1,26 @@
+HV: Friedman chi2=8.333, p=0.304, 4 instances
+algo
+A5_FA2           3.00
+A4_rawdisp       3.00
+A0_randomwalk    3.50
+A2_decay         3.75
+A3_switch        5.25
+A1_FC            5.25
+A7_fullvector    6.00
+A6_nofallback    6.25
+
+CD = 5.250
+
+IGDp: Friedman chi2=9.000, p=0.253, 4 instances
+algo
+A4_rawdisp       3.00
+A3_switch        3.50
+A2_decay         3.75
+A0_randomwalk    3.75
+A5_FA2           3.75
+A1_FC            5.25
+A6_nofallback    6.50
+A7_fullvector    6.50
+
+CD = 5.250
+

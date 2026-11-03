@@ -1,0 +1,30 @@
+HV: Friedman chi2=19.953, p=0.0182, 5 instances
+algo
+A8_adaptfoot       3.0
+L7_rawdisp         3.4
+L8_firstfound      4.0
+L4_fixedparams     4.8
+L1_noattraction    4.8
+L3_noswitch        5.4
+L6_nofallback      5.8
+L5_fixedfoot       6.2
+NSGA3-PM           8.4
+L2_nodecay         9.2
+
+CD = 6.059
+
+IGDp: Friedman chi2=18.556, p=0.0292, 5 instances
+algo
+A8_adaptfoot       3.4
+L7_rawdisp         3.6
+L8_firstfound      4.2
+L4_fixedparams     4.4
+L3_noswitch        4.8
+L1_noattraction    5.0
+L6_nofallback      6.0
+L5_fixedfoot       6.0
+NSGA3-PM           8.6
+L2_nodecay         9.0
+
+CD = 6.059
+

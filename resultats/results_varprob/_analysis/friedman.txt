@@ -1,0 +1,20 @@
+HV: Friedman chi2=5.400, p=0.249, 4 instances
+algo
+A5_FA2           2.25
+S_vp0.1          2.50
+S_vp0.3          2.50
+S_vp0.5          3.25
+A7_fullvector    4.50
+
+CD = 3.050
+
+IGDp: Friedman chi2=5.400, p=0.249, 4 instances
+algo
+S_vp0.3          2.25
+A5_FA2           2.50
+S_vp0.1          2.50
+S_vp0.5          3.25
+A7_fullvector    4.50
+
+CD = 3.050
+

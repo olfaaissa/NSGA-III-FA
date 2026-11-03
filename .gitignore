@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+# raw run files are published as zip archives in the GitHub release
+resultats/**/run*_F.csv
+resultats/**/run*_meta.json
+resultats/**/run*_hist.npz
+resultats/**/run*_activation.csv
+resultats/**/run*_snap*.csv
+*.aux
+*.log
+*.out
+# manuscript source is not published before acceptance
+manuscrit_latex/
+# raw-result archives are attached to the GitHub release, not committed
+resultats/*.zip

@@ -1,0 +1,20 @@
+=== Azure-trace 100x10 M=4 (30 runs apparies, grille 3x3)
+HV defaut : 0.4419 ; ecart des autres cases : -0.4 % a +2.1 %
+IGD+ defaut : 0.2331 ; ecart : -4.1 % a +1.2 %
+HV  : cases significativement pires 0/8, meilleures 0/8
+IGD+: cases significativement pires 0/8, meilleures 0/8
+Friedman (HV) : chi2=10.8, p=2.11e-01
+
+=== DTLZ2 M=8 (30 runs apparies, grille 5x5)
+HV defaut : 1.9659 ; ecart des autres cases : -0.6 % a +0.4 %
+IGD+ defaut : 0.1604 ; ecart : -1.5 % a +2.9 %
+HV  : cases significativement pires 3/24, meilleures 3/24
+IGD+: cases significativement pires 3/24, meilleures 0/24
+Friedman (HV) : chi2=265.9, p=1.14e-42
+
+=== DTLZ4 M=5 (30 runs apparies, grille 5x5)
+HV defaut : 1.3090 ; ecart des autres cases : -0.0 % a +0.0 %
+IGD+ defaut : 0.0564 ; ecart : -0.0 % a +0.1 %
+HV  : cases significativement pires 0/24, meilleures 0/24
+IGD+: cases significativement pires 0/24, meilleures 0/24
+Friedman (HV) : chi2=12.9, p=9.68e-01

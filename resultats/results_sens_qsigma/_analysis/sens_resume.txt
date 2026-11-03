@@ -1,0 +1,7 @@
+Runs apparies par configuration : 30
+HV au point par defaut (q=0.15, sigma=0.5) : 0.4647
+HV moyen : min 0.4523, max 0.4754 (ecart au defaut : -2.7 % a +2.3 %)
+Meilleure case : q=0.05, sigma=0.25, HV=0.4754
+Cases significativement PIRES que le defaut (Wilcoxon-Holm) : 0/24
+Cases significativement MEILLEURES que le defaut : 0/24
+Friedman sur les 25 cases (HV) : chi2=77.0, p=1.82e-07
